@@ -1,0 +1,848 @@
+type,country,count
+Movie,United States,2058
+Movie,India,893
+TV Show,United States,760
+TV Show,United Kingdom,213
+Movie,United Kingdom,206
+TV Show,Japan,169
+TV Show,South Korea,158
+Movie,Canada,122
+Movie,Spain,97
+Movie,Egypt,92
+Movie,Nigeria,86
+TV Show,India,79
+Movie,Indonesia,77
+Movie,Turkey,76
+Movie,Japan,76
+Movie,France,75
+Movie,Philippines,73
+Movie,Mexico,70
+TV Show,Taiwan,68
+Movie,"United Kingdom, United States",63
+TV Show,Canada,59
+Movie,"United States, Canada",51
+Movie,Brazil,50
+Movie,Hong Kong,50
+TV Show,France,49
+TV Show,Australia,48
+TV Show,Spain,48
+Movie,Germany,47
+Movie,South Korea,41
+TV Show,Mexico,40
+Movie,Australia,39
+Movie,Argentina,38
+TV Show,China,38
+Movie,"United States, United Kingdom",38
+Movie,Thailand,37
+Movie,"Canada, United States",32
+Movie,Italy,32
+TV Show,Turkey,29
+Movie,China,28
+TV Show,Brazil,27
+Movie,South Africa,24
+Movie,"France, Belgium",24
+TV Show,Thailand,24
+TV Show,Colombia,22
+TV Show,"United States, Canada",22
+TV Show,Germany,20
+TV Show,Argentina,18
+Movie,Poland,18
+Movie,"United States, Germany",17
+TV Show,Singapore,17
+Movie,"Hong Kong, China",16
+Movie,Malaysia,16
+Movie,Netherlands,15
+Movie,Pakistan,14
+Movie,"United States, France",14
+TV Show,Egypt,14
+TV Show,Russia,14
+TV Show,"Canada, United States",13
+Movie,Colombia,13
+Movie,"China, Hong Kong",13
+Movie,Taiwan,13
+Movie,United Arab Emirates,13
+TV Show,Italy,13
+Movie,"Germany, United States",12
+TV Show,"United Kingdom, United States",12
+Movie,Chile,11
+Movie,"United States, Mexico",11
+Movie,"Australia, United States",10
+TV Show,"United States, Japan",10
+Movie,New Zealand,10
+Movie,"United States, Australia",10
+Movie,"Japan, United States",9
+Movie,"India, United States",9
+Movie,Lebanon,9
+TV Show,Nigeria,9
+TV Show,"United States, United Kingdom",9
+TV Show,Denmark,8
+TV Show,Israel,8
+TV Show,Sweden,8
+Movie,"United States, China",8
+TV Show,Belgium,8
+Movie,"United States, India",8
+Movie,"Mexico, United States",7
+Movie,Ireland,7
+Movie,"Argentina, Spain",7
+Movie,Vietnam,7
+TV Show,Lebanon,6
+Movie,"United States, Japan",6
+TV Show,Malaysia,6
+TV Show,"Mexico, United States",6
+Movie,Romania,6
+TV Show,Poland,6
+TV Show,South Africa,6
+Movie,"United Kingdom, Canada, United States",6
+Movie,Singapore,6
+Movie,Norway,6
+Movie,"France, United States",6
+Movie,"India, France",5
+Movie,Austria,5
+Movie,Israel,5
+Movie,Denmark,5
+Movie,"Italy, France",5
+Movie,"United Kingdom, France",5
+Movie,Sweden,5
+Movie,Saudi Arabia,5
+TV Show,Norway,5
+TV Show,"United States, France, Japan",5
+Movie,"Spain, France",5
+Movie,"United States, United Kingdom, France",4
+Movie,"Canada, United States, United Kingdom",4
+TV Show,"France, United States",4
+TV Show,Netherlands,4
+TV Show,Pakistan,4
+Movie,"United States, Spain",4
+Movie,"United States, Italy",4
+Movie,"South Africa, United States",4
+Movie,"United Kingdom, France, United States",4
+Movie,"United States, Bulgaria",4
+Movie,Peru,4
+Movie,Kuwait,4
+Movie,Hungary,4
+Movie,"Hong Kong, United States",4
+TV Show,"United States, New Zealand",3
+TV Show,"United States, Mexico",3
+TV Show,Saudi Arabia,3
+TV Show,"South Korea, United States",3
+Movie,"United States, South Africa",3
+Movie,"United States, United Arab Emirates",3
+Movie,"United States, United Kingdom, Australia",3
+TV Show,Chile,3
+TV Show,Iceland,3
+TV Show,Hong Kong,3
+TV Show,"France, Belgium",3
+TV Show,Ireland,3
+TV Show,"Japan, United States",3
+Movie,"France, Egypt",3
+Movie,"Bulgaria, United States",3
+TV Show,"Australia, United States",3
+Movie,Uruguay,3
+Movie,"United States, Russia",3
+Movie,"South Korea, United States",3
+Movie,"Belgium, France",3
+Movie,Bangladesh,3
+Movie,Kenya,3
+Movie,"Mexico, Spain",3
+Movie,"Italy, United States",3
+Movie,Ghana,3
+Movie,"China, Canada, United States",3
+Movie,"United Kingdom, Germany",3
+Movie,"United Kingdom, Japan, United States",3
+Movie,"Israel, United States",3
+TV Show,"United States, Colombia",3
+TV Show,"United States, Czech Republic",3
+Movie,"Sweden, United States",3
+Movie,"Spain, Germany",3
+Movie,"Spain, Argentina",3
+Movie,"United States, Germany, Canada",3
+Movie,"United States, Hong Kong",3
+Movie,"United Kingdom, United States, Australia",3
+TV Show,Philippines,2
+TV Show,"United Kingdom, Canada",2
+TV Show,"United States, France",2
+TV Show,"United States, South Korea, China",2
+Movie,"France, Canada",2
+TV Show,Ukraine,2
+TV Show,"United Kingdom, Canada, United States",2
+TV Show,"Poland, United States",2
+TV Show,"United States, Japan, Canada",2
+TV Show,"United Kingdom, United States, Spain, Germany, Greece, Canada",2
+Movie,"United States, Sweden",2
+Movie,"United States, South Korea",2
+Movie,"United States, United Kingdom, Canada",2
+Movie,"United States, Thailand",2
+TV Show,"Canada, Australia",2
+TV Show,"Canada, United States, France",2
+Movie,"Egypt, France",2
+Movie,"United States, United Kingdom, Germany",2
+TV Show,"China, United Kingdom",2
+TV Show,Jordan,2
+TV Show,New Zealand,2
+TV Show,Kuwait,2
+TV Show,Indonesia,2
+TV Show,"Denmark, United States",2
+Movie,"Canada, India",2
+TV Show,"Colombia, Mexico, United States",2
+Movie,"Brazil, France",2
+TV Show,"Israel, United States",2
+Movie,"Australia, United Arab Emirates",2
+Movie,"United States, Argentina",2
+Movie,"United Kingdom, Nigeria",2
+Movie,"United Kingdom, United States, France",2
+Movie,"United Kingdom, United States, Spain, Germany, Greece, Canada",2
+Movie,"United States, Nigeria",2
+Movie,"United States, France, Japan",2
+Movie,"United States, Czech Republic",2
+Movie,"United States, Chile",2
+Movie,"United States, China, Hong Kong",2
+Movie,"United States, Ireland",2
+Movie,"Canada, South Africa",2
+Movie,"United States, Greece",2
+Movie,"United States, New Zealand",2
+Movie,"Turkey, United States",2
+Movie,"United Arab Emirates, United States",2
+Movie,"United Kingdom,",2
+Movie,"United Kingdom, Belgium",2
+Movie,"United Kingdom, Canada",2
+Movie,"United Kingdom, France, Germany, United States",2
+Movie,"United Kingdom, Germany, United States",2
+Movie,"Germany, United Kingdom",2
+Movie,"United Kingdom, Italy",2
+Movie,"United Kingdom, Ireland",2
+Movie,"United Kingdom, India",2
+Movie,"United Kingdom, India, United States",2
+Movie,"Spain, Mexico",2
+Movie,"India, Germany",2
+Movie,Iceland,2
+Movie,"Thailand, United States",2
+Movie,"Norway, Iceland, United States",2
+Movie,"Pakistan, United States",2
+Movie,"China, Taiwan",2
+Movie,"China, United States",2
+Movie,"Poland, United States",2
+Movie,"Portugal, Spain",2
+Movie,"Serbia, United States",2
+Movie,"Hong Kong, China, United States",2
+Movie,"Lebanon, Canada, France",2
+Movie,"India, Soviet Union",2
+Movie,"India, United Kingdom",2
+Movie,"Indonesia, Singapore",2
+Movie,"New Zealand, United States",2
+Movie,"Netherlands, Belgium",2
+Movie,"Argentina, Chile",2
+Movie,"Ireland, United Kingdom",2
+Movie,"Argentina, Brazil, France, Poland, Germany, Denmark",1
+Movie,"Argentina, Chile, Peru",1
+Movie,"Argentina, France",1
+Movie,"Argentina, France, United States, Germany, Qatar",1
+Movie,"Austria, Iraq, United States",1
+TV Show,"Uruguay, Germany",1
+Movie,"Australia, United Kingdom, Canada",1
+Movie,"France, Canada, Italy, United States, China",1
+Movie,"France, Canada, China, Cambodia",1
+Movie,"France, Canada, Belgium",1
+Movie,"France, Brazil, Spain, Belgium",1
+Movie,"France, Belgium, United States",1
+TV Show,"United States, Italy",1
+TV Show,"United States, Israel, Italy, South Africa",1
+TV Show,"United States, Ireland, United Kingdom, India",1
+TV Show,"United States, Ireland",1
+TV Show,"United States, India",1
+TV Show,"United States, Brazil, South Korea, Mexico, Japan, Germany",1
+TV Show,"United States, Australia",1
+TV Show,"United Kingdom, West Germany",1
+Movie,"Australia, United Kingdom",1
+Movie,"Australia, Iraq",1
+Movie,"Ireland, United Kingdom, Italy, United States",1
+Movie,"Ireland, United Kingdom, Greece, France, Netherlands",1
+Movie,"Ireland, United Kingdom, France, Germany",1
+Movie,"Ireland, Switzerland, United Kingdom, France, United States",1
+Movie,"Ireland, South Africa",1
+Movie,"Ireland, Luxembourg, Belgium",1
+Movie,"Ireland, France, Iceland, United States, Mexico, Belgium, United Kingdom, Hong Kong",1
+Movie,"Ireland, Canada, United Kingdom, United States",1
+Movie,"Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India",1
+Movie,"Ireland, Canada",1
+Movie,"Iran, France",1
+TV Show,"United States, Colombia, Mexico",1
+Movie,"Australia, France",1
+Movie,"Australia, Canada",1
+Movie,"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",1
+Movie,"Argentina, Venezuela",1
+Movie,"Denmark, France, Poland",1
+Movie,"Denmark, France, Belgium, Italy, Netherlands, United States, United Kingdom",1
+Movie,"Denmark, China",1
+Movie,"Denmark, Brazil, France, Portugal, Sweden",1
+Movie,"Italy, Switzerland, Albania, Poland",1
+Movie,"Italy, India",1
+Movie,"Italy, France, Switzerland",1
+Movie,"Italy, Brazil, Greece",1
+Movie,"Italy, Belgium",1
+Movie,"Israel, Sweden, Germany, Netherlands",1
+Movie,"Israel, Germany, Poland, Luxembourg, Belgium, France, United States",1
+Movie,"Israel, Germany, France",1
+Movie,"Israel, Germany",1
+Movie,"Ireland, United States, France",1
+Movie,"Ireland, United States",1
+Movie,"Ireland, United Kingdom, United States",1
+Movie,"Kuwait, United States",1
+Movie,"Kenya, United States",1
+Movie,"Jamaica, United States",1
+Movie,"Italy, United States, Argentina",1
+Movie,"Italy, Turkey",1
+Movie,"Italy, Switzerland, France, Germany",1
+Movie,"Denmark, Zimbabwe",1
+Movie,"Denmark, United States",1
+Movie,"Denmark, United Kingdom, Sweden",1
+Movie,"Denmark, United Kingdom, South Africa, Sweden, Belgium",1
+Movie,"Denmark, Sweden, Israel, United States",1
+Movie,"Denmark, Spain",1
+Movie,"Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",1
+Movie,"Denmark, Germany, Belgium, United Kingdom, France, Sweden",1
+Movie,"Denmark, Germany, Belgium, United Kingdom, France",1
+Movie,"Denmark, France, United States, Sweden",1
+Movie,"Lebanon, Qatar",1
+Movie,"Lebanon, Palestine, Denmark, Qatar",1
+Movie,"Lebanon, France",1
+Movie,"Indonesia, United States",1
+Movie,"Indonesia, United Kingdom",1
+Movie,"Indonesia, South Korea, Singapore",1
+Movie,"Indonesia, Netherlands",1
+Movie,"India, United Kingdom, France, Qatar",1
+Movie,"India, United Kingdom, China, Canada, Japan, South Korea, United States",1
+Movie,"India, United Kingdom, Canada, United States",1
+Movie,"India, Turkey",1
+Movie,"India, Switzerland",1
+Movie,"India, Pakistan",1
+Movie,"India, Nepal",1
+Movie,"India, Mexico",1
+Movie,"India, Malaysia",1
+Movie,"Netherlands, Denmark, France, Germany",1
+Movie,"Netherlands, Belgium, United Kingdom, United States",1
+Movie,"Netherlands, Belgium, Germany, Jordan",1
+Movie,Namibia,1
+Movie,Mozambique,1
+Movie,"Mexico, Netherlands",1
+Movie,"Mexico, France, Colombia",1
+Movie,"Mexico, France",1
+Movie,"Mexico, Finland",1
+Movie,"Mexico, Brazil",1
+Movie,"Mexico, Argentina",1
+Movie,Mauritius,1
+Movie,"Lebanon, United States, United Arab Emirates",1
+Movie,"Lebanon, United Arab Emirates, France, Switzerland, Germany",1
+Movie,"Lebanon, United Arab Emirates",1
+Movie,"Lebanon, Syria",1
+Movie,"Peru, United States, United Kingdom",1
+Movie,"Peru, Germany, Norway",1
+Movie,"Paraguay, Argentina",1
+Movie,"Pakistan, United Arab Emirates",1
+Movie,"Pakistan, Norway, United States",1
+Movie,"Norway, United Kingdom, France, Ireland",1
+Movie,"Norway, Germany",1
+Movie,"Norway, Denmark, Sweden",1
+Movie,"Norway, Denmark, Netherlands, Sweden",1
+Movie,"Nigeria, United Kingdom",1
+Movie,"New Zealand, United Kingdom, Australia",1
+Movie,"New Zealand, United Kingdom",1
+Movie,"New Zealand, Australia, France, United States",1
+Movie,"Netherlands, United States",1
+Movie,"Netherlands, Germany, Denmark, United Kingdom",1
+Movie,"Netherlands, Denmark, South Africa",1
+Movie,"Philippines, Singapore",1
+Movie,"Philippines, Qatar",1
+Movie,"Czech Republic, United States",1
+Movie,"Czech Republic, United Kingdom, United States",1
+Movie,"Czech Republic, United Kingdom, France",1
+Movie,"Czech Republic, Slovakia",1
+Movie,"Czech Republic, France",1
+Movie,"Croatia, Slovenia, Serbia, Montenegro",1
+Movie,"Colombia, Peru, United Kingdom",1
+Movie,"Colombia, Mexico",1
+Movie,"China, United States, United Kingdom",1
+Movie,"China, United States, Canada",1
+Movie,"China, United States, Australia",1
+Movie,"China, United Kingdom",1
+Movie,"China, Spain, South Korea, United States",1
+Movie,"Philippines, Canada, United Kingdom, United States",1
+Movie,"Saudi Arabia, United Arab Emirates",1
+Movie,"Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States",1
+Movie,"Russia, United States, China",1
+Movie,"Russia, United States",1
+Movie,"Russia, Spain",1
+Movie,"Russia, Poland, Serbia",1
+Movie,Russia,1
+Movie,"Romania, United States",1
+Movie,"Romania, United Kingdom",1
+Movie,"Romania, France, Switzerland, Germany",1
+Movie,"Romania, Bulgaria, Hungary",1
+Movie,"Portugal, United States",1
+Movie,"Portugal, France, Poland, United States",1
+Movie,"Poland, West Germany",1
+Movie,"Poland,",1
+Movie,"Philippines, United States",1
+Movie,"South Korea, Czech Republic",1
+Movie,"South Korea, China, United States",1
+Movie,"South Africa, United States, New Zealand, Canada",1
+Movie,"South Africa, United States, Japan",1
+Movie,"South Africa, United States, Germany",1
+Movie,"South Africa, Nigeria",1
+Movie,"South Africa, Germany, Netherlands, France",1
+Movie,"South Africa, China, United States",1
+Movie,"South Africa, Angola",1
+Movie,"Somalia, Kenya, Sudan, South Africa, United States",1
+Movie,"Slovenia, Croatia, Germany, Czech Republic, Qatar",1
+Movie,"Singapore, United States",1
+Movie,"Singapore, Malaysia",1
+Movie,"Singapore, Japan, France",1
+Movie,"Singapore, France",1
+Movie,"Serbia, South Korea, Slovenia",1
+Movie,"Spain, Belgium",1
+Movie,"India, Japan",1
+Movie,"India, Iran",1
+Movie,"India, Germany, Austria",1
+Movie,"India, Canada",1
+Movie,"India, Australia",1
+Movie,"Iceland, Sweden, Belgium",1
+Movie,"Hungary, United States",1
+Movie,"Hong Kong, Taiwan",1
+Movie,"Hong Kong, Iceland, United States",1
+Movie,"Hong Kong, China, Singapore",1
+Movie,"Hong Kong, Canada, United States",1
+Movie,Guatemala,1
+Movie,"Greece, United States",1
+Movie,"Soviet Union, India",1
+Movie,"South Korea, Japan",1
+Movie,"Spain, United Kingdom",1
+Movie,"Spain, Thailand, United States",1
+Movie,"Spain, Switzerland",1
+Movie,"Spain, Portugal",1
+Movie,"Spain, Mexico, France",1
+Movie,"Spain, Italy, Argentina",1
+Movie,"Spain, Italy",1
+Movie,"Spain, France, Uruguay",1
+Movie,"Spain, France, United States",1
+Movie,"Spain, France, United Kingdom, United States",1
+Movie,"Spain, France, Italy",1
+Movie,"Spain, France, Canada, United States",1
+Movie,"Spain, France, Canada",1
+Movie,"Spain, Colombia",1
+Movie,"Spain, Canada, United States",1
+Movie,"Spain, Belgium, United States",1
+Movie,"Thailand, Canada, United States",1
+Movie,"Taiwan, Hong Kong, United States, China",1
+Movie,"Taiwan, China, France, United States",1
+Movie,"Syria, France, Lebanon, Qatar",1
+Movie,"Switzerland, Vatican City, Italy, Germany, France",1
+Movie,"Switzerland, United States",1
+Movie,"Switzerland, United Kingdom, United States",1
+Movie,"Switzerland, United Kingdom, Australia",1
+Movie,"Switzerland, France, Belgium, United States",1
+Movie,"Switzerland, France",1
+Movie,Switzerland,1
+Movie,"Sweden, United Kingdom, Finland",1
+Movie,"Sweden, Netherlands",1
+Movie,"Sweden, Czech Republic, United Kingdom, Denmark, Netherlands",1
+Movie,"Spain, United States",1
+Movie,"Spain, United Kingdom, United States",1
+Movie,"Chile, Argentina",1
+Movie,"United Kingdom, Brazil, Germany",1
+Movie,"United Kingdom, Belgium, Sweden",1
+Movie,"United Kingdom, Australia, United States",1
+Movie,"United Kingdom, Australia, France, United States",1
+Movie,"United Kingdom, Australia, France",1
+Movie,"United Kingdom, Australia, Canada, United States",1
+Movie,"United Arab Emirates, United States, United Kingdom",1
+Movie,"United Arab Emirates, United Kingdom, India",1
+Movie,"United Arab Emirates, Romania",1
+Movie,"United Arab Emirates, Jordan, Lebanon, Saudi Arabia",1
+Movie,"United Arab Emirates, Jordan",1
+Movie,"Turkey, South Korea",1
+Movie,"Turkey, India",1
+Movie,"Turkey, France, Germany, Poland",1
+Movie,"Thailand, China, United States",1
+Movie,"United Kingdom, Canada, United States, Cayman Islands",1
+Movie,"United Kingdom, Canada, Japan",1
+Movie,"United Kingdom, Canada, Italy",1
+Movie,"United Kingdom, Canada, France, United States",1
+Movie,"China, South Korea, United States",1
+Movie,"China, Morocco, Hong Kong",1
+Movie,"China, Japan",1
+Movie,"China, India, Nepal",1
+Movie,"China, Hong Kong, United States",1
+Movie,"China, Germany, India, United States",1
+Movie,"Chile, United States, France",1
+Movie,"Chile, Spain, Argentina, Germany",1
+Movie,"Chile, Peru",1
+Movie,"Chile, France",1
+Movie,"Chile, Brazil",1
+Movie,"Chile, Argentina, France, Spain, United States",1
+Movie,"United Kingdom, France, United States, Belgium",1
+Movie,"United Kingdom, France, Spain, United States",1
+Movie,"United Kingdom, France, Poland, Germany, United States",1
+Movie,"United Kingdom, France, Germany",1
+Movie,"United Kingdom, France, Canada, Belgium, United States",1
+Movie,"United Kingdom, France, Belgium, United States",1
+Movie,"United Kingdom, France, Belgium, Ireland, United States",1
+Movie,"United Kingdom, France, Belgium, Canada, United States",1
+Movie,"United Kingdom, France, Belgium",1
+Movie,"United Kingdom, Egypt, United States",1
+Movie,"United Kingdom, Denmark, Canada, Croatia",1
+Movie,"United Kingdom, Czech Republic, United States, Germany, Bahamas",1
+Movie,"United Kingdom, Czech Republic, Germany, United States",1
+Movie,"United Kingdom, China, United States, India",1
+Movie,"United Kingdom, China, United States",1
+Movie,"United Kingdom, Canada, United States, Germany",1
+Movie,"Ghana, United States",1
+Movie,"Germany, United States, United Kingdom, Canada",1
+Movie,"Germany, United States, Sweden",1
+Movie,"Germany, United States, Hong Kong, Singapore",1
+Movie,"Germany, United States, France",1
+Movie,"Germany, United States, Canada",1
+Movie,"Germany, United Kingdom, United States",1
+Movie,"Germany, Sri Lanka",1
+Movie,"Germany, Jordan, Netherlands",1
+Movie,"Germany, Italy",1
+Movie,"Germany, France, United States, Canada, United Kingdom",1
+Movie,"Germany, France, Luxembourg, United Kingdom, United States",1
+Movie,"Germany, France",1
+Movie,"Germany, Czech Republic",1
+Movie,"United Kingdom, Germany, Canada",1
+Movie,"United Kingdom, France, United States, Belgium, Luxembourg, China, Germany",1
+Movie,"United Kingdom, New Zealand",1
+Movie,"United Kingdom, Namibia, South Africa, Zimbabwe, United States",1
+Movie,"United Kingdom, Malawi",1
+Movie,"United Kingdom, Lithuania",1
+Movie,"United Kingdom, Kenya",1
+Movie,"United Kingdom, Jordan, Qatar, Iran",1
+Movie,"United Kingdom, Japan",1
+Movie,"United Kingdom, Italy, Israel, Peru, United States",1
+Movie,"United Kingdom, Israel, Russia",1
+Movie,"United Kingdom, India, Sweden",1
+Movie,"United Kingdom, Hungary, Australia",1
+Movie,"United Kingdom, Hong Kong",1
+Movie,"United Kingdom, Germany, United Arab Emirates, New Zealand",1
+Movie,"United Kingdom, Germany, Spain, United States",1
+Movie,"United Kingdom, Germany, France, United States",1
+Movie,"United Kingdom, Germany, Canada, United States",1
+Movie,"United Kingdom, United States, Dominican Republic",1
+Movie,"United Kingdom, United States, Canada",1
+Movie,"United Kingdom, Ukraine, United States",1
+Movie,"United Kingdom, Thailand",1
+Movie,"United Kingdom, Spain, United States, Germany",1
+Movie,"United Kingdom, Spain, United States",1
+Movie,"United Kingdom, Spain, Belgium",1
+Movie,"United Kingdom, South Korea",1
+Movie,"United Kingdom, South Africa, France",1
+Movie,"United Kingdom, South Africa",1
+Movie,"United Kingdom, Russia, United States",1
+Movie,"United Kingdom, Russia",1
+Movie,"United Kingdom, Poland, United States",1
+Movie,"United Kingdom, Poland",1
+Movie,"United Kingdom, Pakistan",1
+Movie,"United Kingdom, Norway, Denmark, Germany, Sweden",1
+Movie,"United States, Cambodia",1
+Movie,"United States, Brazil, India, Uganda, China",1
+Movie,"United States, Brazil",1
+Movie,"United States, Botswana",1
+Movie,"United States, Bermuda, Ecuador",1
+Movie,"United States, Belgium, Canada, France",1
+Movie,"United States, Australia, South Africa, United Kingdom",1
+Movie,"United States, Australia, Samoa, United Kingdom",1
+Movie,"United States, Australia, Mexico",1
+Movie,"United States, Australia, China",1
+Movie,"United States,",1
+Movie,"United Kingdom, United States, Morocco",1
+Movie,"United Kingdom, United States, Japan",1
+Movie,"United Kingdom, United States, Germany, Denmark, Belgium, Japan",1
+Movie,"United Kingdom, United States, France, Italy",1
+Movie,"United Kingdom, United States, France, Germany",1
+Movie,"United States, East Germany, West Germany",1
+Movie,"United States, Denmark",1
+Movie,"United States, Czech Republic, United Kingdom",1
+Movie,"United States, China, United Kingdom",1
+Movie,"United States, China, Colombia",1
+Movie,"United States, China, Canada",1
+Movie,"United States, Chile, Israel",1
+Movie,"United States, Canada, United Kingdom",1
+Movie,"United States, Canada, Japan, Panama",1
+Movie,"United States, Canada, Ireland",1
+Movie,"United States, Canada, Indonesia, United Kingdom, China, Singapore",1
+Movie,"United States, Canada, Germany",1
+Movie,"United States, Canada, France",1
+Movie,"United States, Canada, China",1
+Movie,"United States, Canada, Belgium, United Kingdom",1
+Movie,"United States, Cambodia, Romania",1
+Movie,"Finland, Sweden, Norway, Latvia, Germany",1
+Movie,"United States, Greece, Brazil",1
+Movie,"United States, Ghana, Burkina Faso, United Kingdom, Germany, Ethiopia",1
+Movie,"United States, Germany, United Kingdom, Italy",1
+Movie,"United States, Germany, United Kingdom, Australia",1
+Movie,"United States, Germany, United Kingdom",1
+Movie,"United States, Germany, Mexico",1
+Movie,"United States, Germany, Australia",1
+Movie,"United States, France, United Kingdom, Japan",1
+Movie,"United States, France, United Kingdom",1
+Movie,"United States, France, Serbia",1
+Movie,"United States, France, Mexico",1
+Movie,"United States, France, Italy, United Kingdom",1
+Movie,"United States, France, Canada, Spain",1
+Movie,"United States, France, Canada, Lebanon, Qatar",1
+Movie,"United States, France, Canada, Belgium",1
+Movie,"United States, Greece, United Kingdom",1
+Movie,"Germany, China, United Kingdom",1
+Movie,"Germany, Canada, United States",1
+Movie,"Germany, Belgium",1
+Movie,"Germany, Australia",1
+Movie,"Georgia, Germany, France",1
+Movie,Georgia,1
+Movie,"France, United States, United Kingdom, Canada",1
+Movie,"France, United States, Mexico",1
+Movie,"France, Belgium, Spain",1
+Movie,"France, Belgium, Luxembourg, Romania, Canada, United States",1
+Movie,"France, Belgium, Luxembourg, Cambodia,",1
+Movie,"France, Belgium, Italy",1
+Movie,"France, Belgium, China, United States",1
+Movie,"France, Algeria",1
+Movie,"Finland, United States",1
+Movie,"Canada, United States, Cayman Islands",1
+Movie,"Canada, United Kingdom, United States",1
+Movie,"Canada, United Kingdom, Netherlands",1
+Movie,"Canada, United Kingdom",1
+Movie,"Canada, Spain, France",1
+Movie,"Canada, Spain",1
+Movie,"Canada, South Korea, United States",1
+Movie,"Canada, Norway",1
+Movie,"United States, Indonesia",1
+Movie,"United States, India, United Kingdom",1
+Movie,"United States, India, United Arab Emirates",1
+Movie,"United States, India, South Korea, China",1
+Movie,"United States, India, France",1
+Movie,"United States, India, Bangladesh",1
+Movie,"United States, Iceland",1
+Movie,"United States, Hungary",1
+Movie,"United States, Senegal",1
+Movie,"United States, Philippines",1
+Movie,"United States, Norway, Canada",1
+Movie,"United States, Nicaragua",1
+Movie,"United States, New Zealand, United Kingdom",1
+Movie,"United States, Morocco",1
+Movie,"United States, Malta, France, United Kingdom",1
+Movie,"United States, Kazakhstan",1
+Movie,"United States, Italy, United Kingdom, Liechtenstein",1
+Movie,"United States, Italy, Romania, United Kingdom",1
+Movie,"United States, Italy, France, Japan",1
+Movie,"United States, Israel, United Kingdom, Canada",1
+Movie,"Canada, United States, Mexico",1
+Movie,"Canada, United States, India, United Kingdom",1
+Movie,"Canada, United States, Germany",1
+Movie,"Canada, United States, Denmark",1
+Movie,"United States, United Kingdom, Spain, South Korea",1
+Movie,"United States, United Kingdom, New Zealand",1
+Movie,"United States, United Kingdom, Morocco",1
+Movie,"United States, United Kingdom, Japan",1
+Movie,"United States, United Kingdom, Italy",1
+Movie,"United States, United Kingdom, India",1
+Movie,"United States, United Kingdom, Germany, Hungary",1
+Movie,"United States, United Kingdom, France, Germany, Japan",1
+Movie,"United States, United Kingdom, Denmark, Sweden",1
+Movie,"United States, United Kingdom, Canada, Japan",1
+Movie,"United States, United Kingdom, Canada, China",1
+Movie,"United States, Taiwan",1
+Movie,"United States, Switzerland",1
+Movie,"United States, Sweden, Norway",1
+Movie,"United States, Spain, Germany",1
+Movie,"United States, South Korea, Japan",1
+TV Show,"Australia, Germany",1
+TV Show,"Australia, Canada",1
+TV Show,"Argentina, United States, Mexico",1
+TV Show,"Argentina, Spain",1
+TV Show,", South Korea",1
+Movie,Zimbabwe,1
+Movie,West Germany,1
+Movie,"Venezuela, Colombia",1
+Movie,Venezuela,1
+Movie,"Uruguay, Spain, Mexico",1
+Movie,"Uruguay, Guatemala",1
+Movie,"Uruguay, Argentina, Spain",1
+Movie,"Uruguay, Argentina, Germany, Spain",1
+Movie,"Uruguay, Argentina",1
+Movie,"United States, Venezuela",1
+Movie,"United States, Uruguay",1
+TV Show,"Australia, New Zealand",1
+Movie,"Finland, Germany, Belgium",1
+Movie,"Egypt, Saudi Arabia",1
+Movie,"Egypt, Denmark, Germany",1
+Movie,"Egypt, Austria, United States",1
+Movie,"Egypt, Algeria",1
+Movie,"France, United Kingdom, United States",1
+Movie,"France, United Kingdom, India",1
+Movie,"France, Switzerland, Spain, United States, United Arab Emirates",1
+Movie,"France, South Korea, Japan",1
+Movie,"France, Senegal, Belgium",1
+Movie,"France, Qatar",1
+Movie,"France, Norway, Lebanon, Belgium",1
+Movie,"France, New Zealand",1
+Movie,"France, Netherlands, South Africa, Finland",1
+Movie,"France, Netherlands, Singapore",1
+TV Show,"China, Hong Kong",1
+TV Show,"Chile, Italy",1
+TV Show,"Canada, United States, United Kingdom, France, Luxembourg",1
+TV Show,"Canada, United States, Ireland",1
+TV Show,"Canada, United Kingdom, United States",1
+TV Show,"Canada, United Kingdom",1
+TV Show,"Canada, Japan, Netherlands",1
+TV Show,"Canada, Germany, South Africa",1
+TV Show,"Canada, France",1
+TV Show,"Canada, Brazil",1
+TV Show,"Brazil, United Kingdom",1
+TV Show,"Belgium, Netherlands",1
+TV Show,Belarus,1
+TV Show,"Austria, Germany",1
+TV Show,"Australia, United Kingdom",1
+TV Show,"Australia, New Zealand, United States",1
+Movie,"Canada, Nigeria, United States",1
+Movie,"Canada, Nigeria",1
+Movie,"Canada, Mexico, Germany, South Africa",1
+Movie,"Canada, Luxembourg",1
+Movie,"Canada, Japan, United States",1
+Movie,"Canada, Ireland, United States",1
+Movie,"Canada, India, Thailand, United States, United Arab Emirates",1
+Movie,"Canada, Hungary, United States",1
+Movie,"Canada, Germany, France, United States",1
+Movie,"Canada, Germany",1
+Movie,"Canada, France, United States",1
+Movie,"Canada, France, Italy, Morocco, United States",1
+Movie,"Canada, Belgium",1
+Movie,Cameroon,1
+TV Show,Croatia,1
+TV Show,"Colombia, United States",1
+TV Show,"Germany, Czech Republic",1
+TV Show,"Germany, Australia, France, China",1
+TV Show,"France, United States, Canada",1
+TV Show,"France, United Kingdom, United States",1
+TV Show,"France, United Kingdom",1
+TV Show,"France, South Korea, Japan, United States",1
+TV Show,"France, Japan, United States",1
+TV Show,"France, Germany",1
+TV Show,"France, Canada",1
+TV Show,"France, Australia, Germany",1
+TV Show,"Finland, Germany",1
+TV Show,"Finland, France",1
+TV Show,Finland,1
+TV Show,"Denmark, Singapore, Canada, United States",1
+TV Show,"Czech Republic, United States",1
+TV Show,Cyprus,1
+TV Show,"Japan, Canada, United States",1
+TV Show,"Japan, Canada",1
+TV Show,"Italy, United States",1
+TV Show,"Italy, United Kingdom, France",1
+TV Show,"Italy, United Kingdom",1
+TV Show,"Italy, South Africa, West Germany, Australia, United States",1
+TV Show,"Italy, Germany",1
+TV Show,"Italy, Canada, France",1
+TV Show,"Ireland, United States, United Kingdom",1
+TV Show,"Ireland, United Kingdom, United States",1
+TV Show,"Ireland, Canada, United States, United Kingdom",1
+TV Show,"India, United States",1
+TV Show,"India, Germany, France",1
+TV Show,"Germany, United States, Italy",1
+TV Show,"Germany, United States",1
+TV Show,"Germany, France, Russia",1
+TV Show,Luxembourg,1
+Movie,"France, Morocco",1
+Movie,"France, Malta, United States",1
+Movie,"France, Luxembourg, United States",1
+Movie,"France, Luxembourg, Canada",1
+Movie,"France, Lebanon, United Kingdom",1
+Movie,"France, Lebanon",1
+Movie,"France, Japan, United States",1
+Movie,"France, Japan",1
+Movie,"France, Israel, Germany, United States, United Kingdom",1
+Movie,"France, Iran, United States",1
+Movie,"France, Germany, Switzerland",1
+Movie,"France, Germany, Czech Republic, Belgium",1
+Movie,"France, China, Japan, United States",1
+Movie,"France, Canada, United States, Spain",1
+Movie,"France, Canada, United States",1
+Movie,"Bulgaria, United States, Spain, Canada",1
+Movie,Bulgaria,1
+Movie,"Brazil, United States",1
+Movie,"Brazil, Netherlands, United States, Colombia, Austria, Germany",1
+Movie,"Brazil, India, China, United States",1
+Movie,"Brazil, France, Germany",1
+Movie,"Belgium, United Kingdom, United States",1
+Movie,"Belgium, United Kingdom",1
+Movie,"Belgium, Netherlands",1
+Movie,"Belgium, Ireland, Netherlands, Germany, Afghanistan",1
+Movie,"Belgium, France, Netherlands",1
+TV Show,"Netherlands, Germany, Italy, Canada",1
+TV Show,"Mexico, United States, Spain, Colombia",1
+TV Show,"Mexico, Spain",1
+TV Show,"Mauritius, South Africa",1
+TV Show,"Malaysia, Singapore, Hong Kong",1
+TV Show,"Spain, Germany, Denmark, United States",1
+TV Show,"Spain, Cuba",1
+TV Show,"South Korea, France",1
+TV Show,"South Korea, China",1
+TV Show,"South Korea, Canada, United States, China",1
+TV Show,"Singapore, United States",1
+TV Show,Senegal,1
+TV Show,"Saudi Arabia, Syria, Egypt, Lebanon, Kuwait",1
+TV Show,"Puerto Rico, United States, Colombia",1
+TV Show,"Philippines, Singapore, Indonesia",1
+TV Show,"Norway, United States",1
+TV Show,"Norway, Sweden",1
+TV Show,"Norway, Germany, Sweden",1
+TV Show,"Norway, Denmark",1
+Movie,"Cambodia, United States",1
+Movie,Cambodia,1
+Movie,"Australia, India",1
+Movie,"Australia, France, Ireland",1
+TV Show,"United Kingdom, Germany, United States, France",1
+TV Show,"United Kingdom, Germany",1
+TV Show,"United Kingdom, France, Germany, Spain",1
+TV Show,"United Kingdom, France",1
+TV Show,"United Kingdom, Finland, Germany, United States, Australia, Japan, France, Ireland",1
+TV Show,"United Kingdom, China",1
+TV Show,"United Kingdom, Australia",1
+TV Show,United Arab Emirates,1
+TV Show,"Turkey, Azerbaijan",1
+TV Show,"Taiwan, Malaysia",1
+TV Show,"Taiwan, China",1
+TV Show,Switzerland,1
+TV Show,"Spain, United Kingdom",1
+TV Show,"Spain, Italy",1
+Movie,"Austria, United States",1
+TV Show,"United States, France, South Korea, Indonesia",1
+TV Show,"United States, France, Denmark",1
+TV Show,"United States, France, Canada",1
+TV Show,"United States, Singapore",1
+TV Show,"United States, Russia",1
+TV Show,"United States, Poland",1
+TV Show,"United States, New Zealand, Japan",1
+TV Show,"United States, Netherlands, Japan, France",1
+TV Show,"United States, Mexico, Spain, Malta",1
+TV Show,"United States, Mexico, Colombia",1
+TV Show,"United States, Chile",1
+TV Show,"United States, Hungary, Ireland, Canada",1
+Movie,"Austria, Czech Republic",1
+Movie,"Australia, United Kingdom, United States, New Zealand, Italy, France",1
+Movie,"Australia, United Kingdom, United Arab Emirates, Canada",1
+Movie,"Argentina, Uruguay, Spain, France",1
+Movie,"Argentina, Uruguay, Serbia",1
+Movie,"Argentina, United States",1
+TV Show,"United States, Brazil, Japan, Spain, India",1
+Movie,"Argentina, Italy",1
+TV Show,"United States, United Kingdom, Australia",1
+Movie,", France, Algeria",1
+TV Show,"United States, Sweden",1
+TV Show,"United Kingdom, United States, Ireland",1
+TV Show,"United Kingdom, United States, Czech Republic",1
+TV Show,"United Kingdom, Spain",1
+TV Show,"United Kingdom, South Africa, Australia, United States",1
+TV Show,"United Kingdom, Singapore",1
+TV Show,"United Kingdom, Ireland, United States",1
+TV Show,"United Kingdom, Ireland",1
+Movie,Belgium,1

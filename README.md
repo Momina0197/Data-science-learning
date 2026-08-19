@@ -6,7 +6,7 @@ Practice exercises while learning the Python data science stack.
 
 | Folder | What's inside |
 |---|---|
-| `pandas/` | Filtering, cleaning, loc/iloc, value_counts |
+| `pandas/` | Filtering, cleaning, loc/iloc, value_counts, chunksize, groupby, concat |
 
 ## Stack
 Python, Pandas, Jupyter
