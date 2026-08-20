@@ -7,6 +7,8 @@ Practice exercises while learning the Python data science stack.
 | Folder | What's inside |
 |---|---|
 | `pandas/` | Filtering, cleaning, loc/iloc, value_counts, chunksize, groupby, concat |
+| `generators/` | Python generator practice |
+| `ETL/` | Reading CSV, JSON, and Parquet files, fetching data from APIs, data cleaning and analysis, visualizations with Matplotlib, loading and querying data with SQLite |
 
 ## Stack
-Python, Pandas, Jupyter
+Python, Pandas, Matplotlib, SQLite, Jupyter

@@ -1,0 +1,17 @@
+store_id,store_name,product_category,date,unit_sales,dollar_sales,store_zip,promotion_flag
+LA004,Store_4,Household,2024-09-04,44.0,563.53,90005,True
+LA005,Store_5,Snacks,2024-09-04,19.0,115.8,90001,True
+LA008,Store_8,Snacks,2024-09-04,32.0,601.21,90004,False
+LA006,Store_6,Household,2024-09-04,37.0,224.62,90005,False
+LA001,Store_1,Household,2024-09-04,15.0,167.88,90005,True
+LA010,Store_10,Beverages,2024-09-04,33.0,659.66,900XX,False
+LA010,Store_10,Personal Care,2024-09-04,43.0,648.43,90005,False
+LA001,Store_1,Personal Care,2024-09-04,27.0,71.41,900XX,True
+LA001,Store_1,Household,2024-09-04,29.0,183.46,90001,True
+LA006,Store_6,Produce,2024-09-04,17.0,302.09,90002,False
+LA006,Store_6,Beverages,2024-09-04,34.0,471.24,90002,True
+LA005,Store_5,Beverages,2024-09-04,40.0,482.93,90002,True
+LA001,Store_1,Personal Care,2024-09-04,4.0,14.2,900XX,False
+LA009,Store_9,Beverages,2024-09-04,16.0,239.76,90002,False
+LA005,Store_5,Beverages,2024-09-04,26.0,487.74,900XX,True
+LA001,Store_1,Beverages,2024-09-04,5.0,54.83,90002,True
